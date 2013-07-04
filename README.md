@@ -12,8 +12,8 @@ Link to my [Youtube Channel](http://www.youtube.com/user/DeathSeeker512)
 - [ ] How to spawn the block
 - [ ] Things you can do with the block (resistance, light opacity ect)
 - [ ] Creating crafting/smelting recipes
-- [ ] how to make a configuration file
-- [ ] how to make a completely custom configuration file
+- [ ] How to make a configuration file
+- [ ] How to make a completely custom configuration file
 - [ ] Ore dictionary
 - [ ] How to create an animated texture
 - [ ] Create plants
