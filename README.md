@@ -6,7 +6,6 @@ The source code is to be used in accordance with the videos, and not just copied
 Link to my [Youtube Channel](http://www.youtube.com/user/DeathSeeker512)
 
 ###What this tutorial series does
-- [X] Be awesome
 - [ ] Create the base mod class
 - [ ] Create and texture a block
 - [ ] Create and texture an item
@@ -21,4 +20,5 @@ Link to my [Youtube Channel](http://www.youtube.com/user/DeathSeeker512)
 - [ ] Create a tree
 - [ ] Make food
 - [ ] Swim in custom liquid
+
 And whatever else you would like me to do, and please let me know so that I can add it to the list
