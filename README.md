@@ -15,7 +15,7 @@ key:
 ----
 - [X] Perform delicate construction (setup the modding environment)
 - [X] Bring forth the ultimate paper of awesomeness (Create the base mod class)
-- [ ] Bring forth and dye a cube (create and texture a block)
+- [X] Bring forth and dye a cube (create and texture a block)
 - [ ] Bring forth and paint a thingy (create and texture an item)
 - [ ] How to bring a cube from the void in mass quantity (spawn the block)
 - [ ] Make a special cube (more default things you can do with a block)
