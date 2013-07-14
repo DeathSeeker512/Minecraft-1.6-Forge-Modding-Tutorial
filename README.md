@@ -6,10 +6,15 @@ The source code is to be used in accordance with the videos, and not just copied
 Link to my [Youtube Channel](http://www.youtube.com/user/DeathSeeker512) and the [Youtube Playlist]()
 
 ###What this tutorial series does
-<form>
-    <input type="checkbox" value="Perform delicate construction (setup the modding environment)" checked>
-</form>
-- [ ] Bring forth the ultimate paper of awesomeness (Create the base mod class)
+----
+key:
+- [ ] not completed yet
+- [X] completed
+
+####The list
+----
+- [X] Perform delicate construction (setup the modding environment)
+- [X] Bring forth the ultimate paper of awesomeness (Create the base mod class)
 - [ ] Bring forth and dye a cube (create and texture a block)
 - [ ] Bring forth and paint a thingy (create and texture an item)
 - [ ] How to bring a cube from the void in mass quantity (spawn the block)
@@ -24,3 +29,7 @@ Link to my [Youtube Channel](http://www.youtube.com/user/DeathSeeker512) and the
 - [ ] Drown in weird fluid (make a fluid)
 
 And whatever else you would like me to do, and please let me know so that I can add it to the list
+
+###Creator
+----
+All of the code that is here was created by DeathSeeker512
